@@ -14,7 +14,7 @@ First, you have to sign up for Google Analytics, then import the CSS to your hea
 ```
 {% endcode %}
 
-{% hint style="info" %}
+{% hint style="danger" %}
 It's used to style the ad so please import it!
 {% endhint %}
 
@@ -34,7 +34,9 @@ Once you've done that, Import the JavaScript and the iFrame:
 ```
 {% endcode %}
 
-{% hint style="info" %}
+{% hint style="danger" %}
 They have to be placed as the last thing on sites without the footer, the footer always comes last! **DO NOT CHANGE ANYTHING IN THE IFRAME!**
 {% endhint %}
+
+[Implementation / Usage](implementation-usage.md)  \| [Advertising](advertising.md) \| [Home](./)
 
